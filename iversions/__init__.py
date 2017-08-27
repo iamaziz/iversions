@@ -1,6 +1,6 @@
 """A cell magic command for IPython/Jupyter to display name and version of the imported modules"""
 
-__version__ = "0.0.1"
+__version__ = "0.0.10"
 __all__ = ['iversions']
 
 from .iversions import IVersions
